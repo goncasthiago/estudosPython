@@ -1,4 +1,4 @@
-# estudosPython
+# Estudos de Python
 Códigos em python em geral
 
 Códigos de:
